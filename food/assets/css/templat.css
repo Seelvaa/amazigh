@@ -1041,7 +1041,6 @@ courses
 */
 
 section.our-courses {
-  background-image: url(../images/amazighs-bg.jpg);
   background-position: center center;
   background-attachment: fixed;
   background-repeat: no-repeat;
@@ -1259,7 +1258,7 @@ contact us
 */
 
 section.contact-us {
-  background-image: url(../images/amazighs-bg.jpg);
+  -image: url(../images/amazighs-bg.jpg);
   background-position: center center;
   background-attachment: fixed;
   background-repeat: no-repeat;
