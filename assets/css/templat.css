@@ -129,7 +129,7 @@ body {
 .main-button-red a {
   font-size: 13px;
   color: #fff;
-  background-color: #CF8510;
+  background-color: #0099CC;
   padding: 12px 30px;
   display: inline-block;
   border-radius: 22px;
@@ -1221,7 +1221,7 @@ section.our-facts h2 {
 
 .count-digit {
     margin: 5px 0px;
-    color: #f5a425;
+    color: #000000;
     font-weight: 700;
     font-size: 36px;
 }
